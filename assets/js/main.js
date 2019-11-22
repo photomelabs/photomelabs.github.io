@@ -73,7 +73,7 @@ NOTE: This is the custom jQuery file for the template
         var element = $(".element");
         $(function() {
             element.typed({
-                strings: ["Genetic Engineering.", "Carbon sequestration.", "Climate Change."],
+                strings: ["Genetic Engineering.", "Carbon Sequestration.", "Climate Change."],
                 typeSpeed: 100,
                 loop: true,
             });
